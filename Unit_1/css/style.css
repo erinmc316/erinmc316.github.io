@@ -1,6 +1,7 @@
 body {
-	background-color: rgb(63, 23, 86)
+	background-color: rgb(63, 23, 86);
 }
 
-h1, p {color: white;
+h1, p {
+	color: white;
 }
