@@ -3,4 +3,12 @@ body {
 }
 body {
 	text-align: center;
+	font-family: heveltica;
+}
+h1{
+	font-size: 32px;
+}
+#slogan {
+	font-style: italic;
+	text-decoration: underline;
 }
