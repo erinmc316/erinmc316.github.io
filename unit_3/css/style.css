@@ -4,10 +4,11 @@ body {
 body {
 	text-align: center;
 	font-family: "Courier New", monospace;
+	color: #142A83;
 }
 h1 {
 	font-weight: bold;
-	font-size: 76px;
+	font-size: 56px;
 }
 #slogan {
 	font-style: italic;
