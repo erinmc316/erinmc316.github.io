@@ -3,10 +3,12 @@ body {
 }
 body {
 	text-align: center;
+}
+body {
 	font-family: verdana;
 }
 h1{
-	font-size: 32px;
+	font-size: 86px;
 }
 #slogan {
 	font-style: italic;
