@@ -5,6 +5,10 @@ body {
 	text-align: center;
 	font-family: "Courier New", monospace;
 }
+h1 {
+	font-weight: bold;
+	font-size: 76px;
+}
 #slogan {
 	font-style: italic;
 }
