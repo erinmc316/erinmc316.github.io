@@ -8,9 +8,9 @@ body {
 #slogan {
 	font-style: italic;
 }
-#list {
-	text-align: left;
+
 }
 ul {
-	text-align: left;
+	text-align: center;
+	list-style-type: none;
 }
