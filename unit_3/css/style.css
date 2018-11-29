@@ -3,6 +3,13 @@ body {
 }
 body {
 	text-align: center;
+	font-family: "Courier New", monospace;
+}
+#slogan {
+	font-style: italic;
+}
+#list {
+	text-align: left;
 }
 ul {
 	text-align: left;
