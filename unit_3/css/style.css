@@ -1,19 +1,9 @@
 body {
 	background-color: #E6C38D;
 }
-
 body {
 	text-align: center;
 }
-
-body {
-	font-family: verdana;
-}
-
-h1{
-	font-size: 86px;
-}
-
-#slogan {
-	font-style: italic;
+ul {
+	text-align: left;
 }
