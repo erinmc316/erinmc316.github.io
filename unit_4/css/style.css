@@ -1,9 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+	text-align: center;
 body {
 	background-color: #E6C38D;
-}
-body {
-	text-align: center;
-	font-family: "Courier New", monospace;
+	font-family: 'Kalam", cursive;
 	color: #142A83;
 }
 h1 {
