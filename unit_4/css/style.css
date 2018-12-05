@@ -1,0 +1,19 @@
+body {
+	background-color: #E6C38D;
+}
+body {
+	text-align: center;
+	font-family: "Courier New", monospace;
+	color: #142A83;
+}
+h1 {
+	font-weight: bold;
+	font-size: 56px;
+}
+#slogan {
+	font-style: italic;
+}
+ul {
+	text-align: center;
+	list-style-type: none;
+}
