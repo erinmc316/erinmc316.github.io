@@ -2,7 +2,7 @@
 body {
 	text-align: center;
 	background-color: #E6C38D;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Open Sans;, sans-serif
 	color: #142A83;
 	line-height: 2em
 }
@@ -14,7 +14,7 @@ p {
 	font-size: 25px;
 }
 ul {
-	font-family:'Open Sans', sans-serif;
+
 	font-size: 18px;
 	text-align: center;
 	list-style-type: none;
