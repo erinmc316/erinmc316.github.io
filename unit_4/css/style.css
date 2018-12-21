@@ -1,20 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Open+Sans');
 body {
+	font-family: 'Open Sans'
 	text-align: center;
 	background-color: #E6C38D;
-	font-family: 'Open Sans;, sans-serif
 	color: #142A83;
 	line-height: 2em
 }
 h1 {
+	font-family: 'Dancing Script'
 	font-weight: bold;
-	font-size: 56px;
+	font-size: 80px;
 }
-p {
-	font-size: 25px;
+p1 {
+	font-size: 35px;
 }
 ul {
-
 	font-size: 18px;
 	text-align: center;
 	list-style-type: none;
