@@ -7,12 +7,15 @@ body {
 	line-height: 2em
 }
 h1 {
-	font-family: 'Dancing Script'
+	font-family: 'Dancing Script';
 	font-weight: bold;
 	font-size: 80px;
 }
 p1 {
-	font-size: 35px;
+	font-size: 20px;
+}
+p2 {
+	font-size: 20px;
 }
 ul {
 	font-size: 18px;
