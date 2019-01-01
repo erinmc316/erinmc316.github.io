@@ -11,6 +11,10 @@ h1 {
 	font-weight: bold;
 	font-size: 80px;
 }
+img {
+	height: 25%;
+	width: 25%;
+}
 p1 {
 	font-size: 20px;
 }
