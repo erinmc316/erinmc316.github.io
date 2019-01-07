@@ -66,6 +66,12 @@ img {
 	width: 80x;
 	text-align: center;
 }
+aside {
+	font-size:14px;
+	width:240px;
+	padding:20px 0;
+	margin: 0 20px 0 0;
+}
 .column {
 	float: left;
 	width: 320px;
@@ -98,9 +104,7 @@ ul {
 	font-size: 20px;
 	text-align: center;
 	list-style-type: none;
-}
-footer {
-	text-align: center;
+	line-height: 40px;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -110,3 +114,7 @@ footer {
 	clear: both;
 	height: 0;
 }
+footer {
+	text-align: center;
+}
+
